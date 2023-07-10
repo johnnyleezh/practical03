@@ -1,2 +1,2 @@
 # practical03
-learning git in my practical class
+Learning git in my practical class
